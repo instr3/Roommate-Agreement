@@ -1,6 +1,8 @@
 # Roommate-Agreement
 The Online Sample of Roommate Agreement.
 
+**非正式版内容并不是强制性的，需要全部室友进行表决以及增删内容，以得到正式版。**
+
 ##室友协议 `v0.1fix`
 
 ----
